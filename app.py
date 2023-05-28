@@ -6,8 +6,7 @@ import numpy as np
 import plotly.express as px
 from PIL import Image
 from dateutil.relativedelta import *
-from joblib import dump, load
-import streamlit.components.v1 as components        
+     
 
 # Title of the main page
 pathLogo = 'Zebrands.png'
